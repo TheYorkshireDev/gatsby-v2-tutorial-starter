@@ -2,12 +2,11 @@
 
 Forked from https://github.com/justinformentin/gatsby-v2-tutorial-starter
 
+Note the static website assumes there is at least on blog post
+
 ## Removed Files/Folders
 ```
 - .circleci/
 - .codeclimate.yml
-- content/post/2018-10-15/*
-- content/post/2018-10-18/*
-- content/post/2018-10-19/*
-- content/post/2018-10-20/*
+- content/post/*
 ```
