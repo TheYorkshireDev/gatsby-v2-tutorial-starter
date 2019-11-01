@@ -6,4 +6,5 @@ Forked from https://github.com/justinformentin/gatsby-v2-tutorial-starter
 ```
 - .circleci/
 - .codeclimate.yml
+- content/post/2018-10-15/*
 ```
